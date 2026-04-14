@@ -24,7 +24,7 @@
 
 - Pursuing **Bachelor of Computer Applications (BCA)** at NIMS College, Ballari, Karnataka
 - Building projects across web development, UI design, and Python scripting
-- Currently deepening skills in **JavaScript**, **Python**, and **responsive UI**
+- Currently deepening skills in **Python**, and **responsive UI**
 - Open to collaborations, internships, and open-source contributions
 - Location: **Ballari, Karnataka, India**
 - Contact: **psaniyasabha@gmail.com**
